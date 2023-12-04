@@ -26,3 +26,17 @@ node -v
 * npm --> 외부라이브러리를 쉽게 설치하고 버전을 관리하수 있게한다 --> package.json를 만들게 된다.
 * npx --> 라이브러리를 개별적으로 실행하고자 할때 사용하는것이다
 
+
+![image](https://github.com/Sary556/react/assets/141836031/f5336c49-2645-4b2f-b0bb-430ee5c75f82)
+
+부모 폴더 이동
+
+![image](https://github.com/Sary556/react/assets/141836031/69fd8a42-daa5-4aa1-8f87-325e82b743e1)
+
+D드라이브 이동
+
+![image](https://github.com/Sary556/react/assets/141836031/f28f88b8-8ab8-4bea-9fd0-48729ecbed68)
+
+파일보기
+
+
