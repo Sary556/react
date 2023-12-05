@@ -71,12 +71,40 @@ npm start
 
 # React 확장프로그램
 - React 기본 구조 만드는 확장프로그램
+  React 기본 문법 html의 ! 처럼 세팅하기위한 익스텐션(확장프로그램)
+  ![image](https://github.com/Sary556/react/assets/141836031/1cdd06b4-c9bf-4d61-8f2d-b92032806b0e)
 
-![image](https://github.com/Sary556/react/assets/141836031/1cdd06b4-c9bf-4d61-8f2d-b92032806b0e)
 
-react 기본 문법 html의 ! 처럼 세팅하기위한 익스텐션(확장프로그램)
 
 - React 코드 정렬 해주는 확장프로그램
+
+  ![image](https://github.com/Sary556/react/assets/141836031/3c7b5815-014d-45fa-ac28-f7a4c13c06c7)
+
+
+
+# format save 설정하기
+
+  ![image](https://github.com/Sary556/react/assets/141836031/e547e36f-3015-42cb-8c1f-325e4fb01f15)
+
+
+
+-------
+
+
+
+  ![image](https://github.com/Sary556/react/assets/141836031/996f074d-fa76-4ac5-b309-ae5d6292fd49)
+
+
+
+-------
+
+
+
+  ![image](https://github.com/Sary556/react/assets/141836031/484a6270-cdcd-498c-9e0f-a88215478af2)
+
+
+
+
 
 
 
