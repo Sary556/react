@@ -12,3 +12,61 @@ https://react.dev/learn#writing-markup-with-jsx  참조
 - 인라인스타일로 css를 작성할때 ==> 밖에 {}는 자바스크립트를 사용한다는 의미로 해석하고 안의 {}는 객체라고 사용한다는 의미로 해석한다 {{}}의 형태
 - EX) <div style={{ width: "300px", height: "200px" }}>추가하기</div>
 
+```
+import logo from "./logo.svg";
+import "./App.css";
+
+// jsx문법 = React는 페이스북에서 만들어진 언어
+function App() {
+  const name = "멍멍이";
+  return (
+    <>
+      <div className="App">
+        <p>{`${name}시작하기`} </p>
+      </div>
+      <div style={{ width: "300px", height: "200px" }}>추가하기</div>
+    </>
+  );
+}
+
+export default App;
+
+```
+
+```
+import logo from "./logo.svg";
+import "./App.css";
+
+// jsx문법 = React는 페이스북에서 만들어진 언어
+function App() {
+  const name = "멍멍이";
+  const list = ["기침", "감기", "약"];
+  return (
+    <>
+      <h1 className="dog">Hello!{name}</h1>
+      <h1 className="dog">{`Hello!${name}`}</h1>
+      <ul>
+        <li>기침</li>
+        <li>감기</li>
+        <li>약</li>
+      </ul>
+      <ul>
+        {/* {list.map((item) => {
+          return <li>{item}</li>;
+        })} */}
+        {list.map((item) => (
+          <li>{item}</li>
+        ))}
+        ; {/* 리턴이 생략되어있지만 디폴드값으로 이미 들어있는상태이다 */}
+      </ul>
+      <img style={{width:"500px",height:"500px"}}
+        src="https://image.onch3.co.kr/img_data/2023/1676466712_img49.jpg"
+        alt="img"
+      ></img>
+    </>
+  );
+}
+
+export default App;
+
+```
