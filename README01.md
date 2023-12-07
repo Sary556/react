@@ -104,9 +104,11 @@ npm start
 
 
 또 설치한 익스텐션(확장프로그램)
+
 ![image](https://github.com/Sary556/react/assets/141836031/ebe66172-f6fb-40ff-aea4-9f9d55416b5b)
 
 쓰고있는것들
+
 ![image](https://github.com/Sary556/react/assets/141836031/3b2c20c8-30fd-44a8-8ca4-6f34763a8fb5)
 
 
