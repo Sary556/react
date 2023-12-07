@@ -70,3 +70,6 @@ function App() {
 export default App;
 
 ```
+결과
+![image](https://github.com/Sary556/react/assets/141836031/2b9ef48d-4bd4-4bef-b822-5fe18580f5b0)
+
