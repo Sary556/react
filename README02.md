@@ -57,7 +57,7 @@ function App() {
         {list.map((item) => (
           <li>{item}</li>
         ))}
-        ; {/* 리턴이 생략되어있지만 디폴드값으로 이미 들어있는상태이다 */}
+         {/* 리턴이 생략되어있지만 디폴드값으로 이미 들어있는상태이다 */}
       </ul>
       <img style={{width:"500px",height:"500px"}}
         src="https://image.onch3.co.kr/img_data/2023/1676466712_img49.jpg"
@@ -71,5 +71,7 @@ export default App;
 
 ```
 결과
-![image](https://github.com/Sary556/react/assets/141836031/2b9ef48d-4bd4-4bef-b822-5fe18580f5b0)
+![image](https://github.com/Sary556/react/assets/141836031/a6c16f94-261d-4499-aeaa-f5adfdb11092)
+
+
 
