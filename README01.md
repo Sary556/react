@@ -103,6 +103,9 @@ npm start
   ![image](https://github.com/Sary556/react/assets/141836031/484a6270-cdcd-498c-9e0f-a88215478af2)
 
 
+  ![image](https://github.com/Sary556/react/assets/141836031/18f43649-d61a-4633-b28c-3d473fcb278e)
+
+
 또 설치한 익스텐션(확장프로그램)
 
 ![image](https://github.com/Sary556/react/assets/141836031/ebe66172-f6fb-40ff-aea4-9f9d55416b5b)
