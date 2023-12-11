@@ -52,6 +52,7 @@ rafc 셋팅
 
 React 구조..
 
+# 기본 다시 해보기
 
 ![image](https://github.com/Sary556/react/assets/141836031/9c8db3fc-59b2-4487-9174-f15ecf38d9cf)
 
