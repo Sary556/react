@@ -13,3 +13,8 @@ useState(0)의 0은 num의 초기값
 # 부분적으로 값 받기 
 
 ![image](https://github.com/Sary556/react/assets/141836031/5f46d91e-52aa-40c3-a9ed-dc2e605f0247)
+
+
+# 구조분해로 변경하기
+
+![image](https://github.com/Sary556/react/assets/141836031/76c85bb9-b16b-42ba-9e5a-ae1c4701b38d)
