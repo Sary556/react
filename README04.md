@@ -8,3 +8,8 @@ useState(0)의 0은 num의 초기값
 ```
 
 ![image](https://github.com/Sary556/react/assets/141836031/550f2b69-0dce-4744-8e7f-e542f1424e98)
+
+
+# 부분적으로 값 받기 
+
+![image](https://github.com/Sary556/react/assets/141836031/5f46d91e-52aa-40c3-a9ed-dc2e605f0247)
