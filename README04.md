@@ -55,11 +55,12 @@ export default Profile;
 ```
 
 ---------------------------------
-다음날 수업 src2 참조
+
 ![image](https://github.com/Sary556/react/assets/141836031/59936133-4191-4bf1-9d28-1c7728b98c1b)
 
 
 ```
+//폴더 src2 다음날 수업 src2 참조
 import { useState } from "react";
 import "./App.css";
 import Profile from "./components/Profile";
