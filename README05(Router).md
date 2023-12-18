@@ -5,6 +5,9 @@ https://reactrouter.com/en/main
 공식 사이트 주소
 
 # 1) 설치하기 
+
+# BrowserRouter는 React 전체를 싸주어야한다.
+
 ```
 npm install react-router-dom
 ```
@@ -24,4 +27,18 @@ router로 component인 app을 싼장면
 
 http://localhost:3000/About ⬇️ 뒤에 http://localhost:3000뒤에 /About 넣었더니 또나오는
 ![image](https://github.com/Sary556/react/assets/141836031/fda87aed-7b25-49c4-b4bb-d859e36fe28e)
+
+
+# 링크로 연결해서 페이지로 갈때
+
+# Link 는 a태그로 변환된다. 라우터간에 이동할수 있게 도와주는 링크다.
+
+![image](https://github.com/Sary556/react/assets/141836031/657d039b-87a9-4d68-ab0e-7f43b1b7f8b1)
+
+![image](https://github.com/Sary556/react/assets/141836031/e3bb3cfa-3f51-475e-b7a0-bad97a3e6abd)
+
+![image](https://github.com/Sary556/react/assets/141836031/68c51c05-05aa-4145-99ce-308961bb6c79)
+
+![image](https://github.com/Sary556/react/assets/141836031/09b25ed6-6303-4a8a-9653-9948f819ba08)
+
 
