@@ -13,3 +13,5 @@
 # useEffect() 가 종료되는 시점에 데이터가 변경된다.
 
 ![image](https://github.com/Sary556/react/assets/141836031/6531e19a-f593-49ca-8e2a-85beba47de77)
+
+# 이전값 prev
